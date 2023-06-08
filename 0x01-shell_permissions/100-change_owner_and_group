@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent chgpr staff .
+chown vincent . chgpr staff .
