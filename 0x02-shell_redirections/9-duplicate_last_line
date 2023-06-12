@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 iacta
+echo "Read more: https://en.wikipedia.org/wiki/Alea_iacta_est"
