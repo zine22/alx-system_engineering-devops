@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR -type d -print | wc -l
+ls -lRa -type d -print | wc -l
