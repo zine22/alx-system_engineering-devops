@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | echo "E ; L ; I "
+ls -la "A
