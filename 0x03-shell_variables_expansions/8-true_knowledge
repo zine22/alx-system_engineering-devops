@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="value" | printf $((128+value))
+export Value="$TRUEKNOWLEDGE" | printf $((128+Value))
