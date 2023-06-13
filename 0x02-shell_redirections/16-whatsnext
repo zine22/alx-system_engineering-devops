@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -en 3 '[root]'
+grep -en 3 "root"
