@@ -1,2 +1,2 @@
 #!/bin/bash
-print {a..z}-{a..z} -oo
+echo {a..z}-{a..z} | grep -v [oo]
