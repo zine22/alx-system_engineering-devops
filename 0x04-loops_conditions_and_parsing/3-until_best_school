@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # 10 times again
 i=1
-until ["$i" -gt 10 ]
+until [ "$i" -gt 10 ]
 do
 echo "Best School"
 i=$(( i + 1 ))
