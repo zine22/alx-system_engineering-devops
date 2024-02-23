@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# stops 4- ... task
+
+pkill -f "./7-highlander

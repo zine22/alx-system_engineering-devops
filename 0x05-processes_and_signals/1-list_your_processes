@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Display a list of curnt process
+# show prcs hyrarchy
+
+ps -axfu

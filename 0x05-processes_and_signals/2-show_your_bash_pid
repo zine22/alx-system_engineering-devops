@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# show ur bash pid
+
+ps -axfu | grep bash
