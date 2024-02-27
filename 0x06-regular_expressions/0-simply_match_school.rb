@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 # to match School
 
-[School]
+puts ARGV[0].scan(/School/).join
