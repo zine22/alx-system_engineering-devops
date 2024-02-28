@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Show name and PID
+
+netstat -lp
